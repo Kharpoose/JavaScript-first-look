@@ -35,3 +35,12 @@ typeof 12
 '$' + (1595 + 5598) / 100;
 
 `Items (${1 + 1}): $${(2095 + 799) / 100}`
+"My name is: "
+'Cagri'
+'cagri ' + 'karpuz'
+`Total cost: $${5 + 3}`
+alert(`Total cost: $${5 + 3}`)
+'Total cost: $' + (599 + 295) / 100
+`Total cost: $${(599 + 295) / 100}`
+alert(`Total cost: $${(599 + 295) / 100}
+Thank you, come again!`);
